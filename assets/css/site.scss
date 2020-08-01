@@ -1,0 +1,66 @@
+---
+---
+
+$img_width: 600px;
+
+.container {
+  width: auto;
+  max-width: 680px;
+}
+
+footer {
+  .row {
+      padding: 8px 15px;
+      margin-top: 20px;
+      background: #f5f5f5;
+  }
+}
+
+.image-wrapper {
+  width: 80%;
+  max-width: $img_width;
+  margin: 0 auto;
+
+  img {
+    width: 100%;
+  }
+
+  .title {
+    display: block;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 5px;
+  }
+}
+
+.note {
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 10px;
+  background: #ccf;
+
+  strong {
+    color: blue;
+  }
+}
+
+.diagram img {
+  width: inherit;
+  max-width: 100%;
+}
+
+.banner-image img {
+  width: 80%;
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.site-title {
+  text-align: center;
+}
+
+.project-title.secondary {
+  color: #aaa;
+  font-size: 18px;
+}

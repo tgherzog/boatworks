@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% assign cat = page.categories[1] %}
+{% assign cat_list = site.categories[cat] %}
+{% for post in cat_list %}
+  {% if post.url == page.url %}
+  	{% assign pOffset = forloop.index0 | minus: 1 %}
+  	{% assign nOffset = pOffset | plus: 2 %}
+  	{% if forloop.first == false %}
+  	  {% assign next_post = cat_list[pOffset] %}
+  	{% endif %}
+  	{% if forloop.last == false %}
+  	  {% assign previous_post = cat_list[nOffset] %}
+      {% assign title_class = " secondary" %}
+  	{% endif %}
+  	{% break %}
+  {% endif %}
+{% endfor %}
+
+<h1 class="project-title{{ title_class }}">{{ page.project }}</h1>
+{% if page.showtitle != false %}
+<h2>{{ page.title }}</h2>
+{% endif %}
+
+{{ content }}
+
+<div class="btn-group" role="group">
+	{% if previous_post %}
+	<a class="btn btn-default" href="{{ previous_post.url | relative_url }}">&laquo; {{ previous_post.title }}</a>
+	{% endif %}
+	{% if next_post %}
+	<a class="btn btn-default" href="{{ next_post.url | relative_url }}">{{ next_post.title }} &raquo;</a>
+	{% endif %}
+</div>

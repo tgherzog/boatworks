@@ -1,0 +1,44 @@
+# Site settings
+title: Sailboat Project Log
+description: "This is my project log for projects on my Allied Seabreeze."
+permalink: :categories/:year-:month-:day-:title:output_ext
+
+sass:
+  sass_dir: css
+  style: compressed
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- README.md
+- Makefile
+- LICENSE
+- CNAME
+- rawpix
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "projects"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: "projects/toerails"
+    values:
+      key: "toerails"
+      project: "Teak Toe Rail Replacement"
+      top: "2018-11-18-overview.html"
+  -
+    scope:
+      path: "projects/chainplates"
+    values:
+      key: "toerails"
+      project: "Rebed Chain Plates With Butyl Tape"
+      top: "2020-07-24-chainplates.html"
