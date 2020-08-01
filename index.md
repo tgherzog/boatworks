@@ -20,7 +20,7 @@ essentially, a place to park and share my project notes and photos so I remember
   <li>{{ elem.values.project }}<ul>
   {% assign cat = elem.scope.path | split: "/" | last %}
   {% for post in site.categories[cat] reversed %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul></li>
   {% endif %}
