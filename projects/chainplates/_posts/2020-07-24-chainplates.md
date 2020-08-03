@@ -97,7 +97,7 @@ After repeating these steps for the other lower shroud on the port side, that's 
 plywood and afixed it over the chain plate holes with hardware store grade butyl tape to prevent rain from getting in until I could
 return later.
 
-**TODO: add picture of temporary cap**
+![temporary plywood cap](images/temp-plywood-cap.jpg "A plywood square sealed with hardware-store grade butyl works great as a temporary seal")
 
 Back at home, I cleaned up the chain plates and covers, removed old sealant and tarnish, etc. This is an excellent time to inspect
 the chain plates and fasteners for damage and make replacements as necessary. I'm always surprised at how far a 3M ScotchBrite pad and
@@ -106,8 +106,6 @@ Perfection isn't necessary; I only need to clean the parts enough to expose poss
 anyway. I also disassembled the turnbuckles and quickly cleaned everything with a ScotchBrite pad; for some reason the bolts got rather dirty.
 
 ![cleaned turnbuckles and chain plates](images/shiny-chainplates-web.jpg)
-
-
 
 
 [toerails]: ../toerails/2018-11-18-overview.html

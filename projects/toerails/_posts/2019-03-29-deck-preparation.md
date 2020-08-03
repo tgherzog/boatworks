@@ -52,6 +52,4 @@ to be level with the existing deck-hull joint.
 Afterwards, we faired the hull to make the profile of the modified bow as seamless as possible. This was
 about the point in the project where I started to think it was time to repaint the hull anyway ;)
 
-**TODO**: add picture of faired bow 
-
-
+![faired hull and deck hull join](images/faired-bow-shelf-web.jpg "Fairing to smooth out the built up deck-hull joint")
