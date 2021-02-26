@@ -42,3 +42,10 @@ defaults:
       key: "toerails"
       project: "Rebed Chain Plates With Butyl Tape"
       top: "2020-07-24-chainplates.html"
+  -
+    scope:
+      path: "projects/coamings"
+    values:
+      key: "coamings"
+      project: "Refurbish Mahogany Cockpit Coamings"
+      top: "2021-01-01-coamings.html"
