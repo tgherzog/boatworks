@@ -34,7 +34,6 @@ starboard side. You may also notice that the toe rails are missing. At this poin
 and winched these down as tight as I could.
 
 ![port-side chain plates](images/starting-web.jpg "Port side chain plates at the start of the project")
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipPYkuPVJWs1lp7YNzgd4_Z6zxcWDPrPxL6llLSR"}
 
 **Step 2:** I measured and recorded the distance of my turnbuckle bolts before loosening them. Assuming
 your rig is reasonably tuned, this is important so you can restore it to its original state.
@@ -49,7 +48,6 @@ This will save a lot of time and guess work down the road.
 {: .note :}
 
 ![chain plate without turnbuckle](images/turnbuckle-removed-web.jpg)
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipMf-jshpPc3Oh03_R8ftHN8WdKPkO5JP73uI3R8"}
 
 **Step 4:** Remove the fastener screws on the chain plate covers. These will easily get lost, so have a cup or an
 old vitamin bottle ready to hold them. You might also consider replacing these with new hardware as the heads can
@@ -62,14 +60,12 @@ to much pressure on the cover itself until the sealant has lost its hold. Even s
 they are thin, and will need to be reflattened again later.
 
 ![gently removing the chain plate cover](images/removing-cover-web.jpg "Remove the chain plate covers as gently as possible")
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipNdklg2VR9nJZ-pGZpKpHaquldWPs0X4zijAZco"}
 
 Once the cover is removed you can take these home and remove all the old sealant and other crud however you like.
 Here you can see I once attempted to temporarily seal this chain plate from above with silicone: a poor decision I won't repeat :)
 
 ![chain plate cover removed](images/cover-removed-web.jpg
 "This chain plate got a bit bent on removal and will need to be flattened before I put it back on")
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipNtiqwrjPLuix_y-zO0yDvQJrpfsbSPl72XgLvo"}
 
 **Step 6:** Time to remove the chain plate. This of course needs to be done from within the cabin and typically means
 partially reorganizing and possibly disassembling stuff in your living quarters. In my case, I'd already done this as part
@@ -87,7 +83,6 @@ bulkhead or whatever it is mounted to. There's a good chance that if you try lat
 won't fit.
 
 ![turnbuckle and chain plate removed](images/chainplate-removed-web.jpg "Try to keep the parts of each assembly together as you remove them")
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipO8gnMLqUSqcfTPgMKM-JrTqPcwjGl05hu5Pgaj"}
 
 **Step 7:** Remove remaining sealant from the deck, chain plate and hardware. 4000 comes off easily enough with a paint scraper and
 perhaps a bit of fine sandpaper. Looking at the deck it becomes obvious that a previous owner
@@ -97,7 +92,6 @@ port side. So I don't think I'll do much to repair the holes in this case. The s
 matter (see next page).
 
 ![hole with chain plate suspended](images/hole-with-chainplate-web.jpg "The hole looks like it was cut with a chain saw, but with the chain plate in place there's actually not an unacceptable amount of space")
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipPmkaIRx7O1zlELN8UJMqdm0UpLGIfbxzIoWbf7"}
 
 After repeating these steps for the other lower shroud on the port side, that's enough for one day. I cut a temporary cap from some old
 plywood and afixed it over the chain plate holes with hardware store grade butyl tape to prevent rain from getting in until I could
@@ -112,7 +106,6 @@ Perfection isn't necessary; I only need to clean the parts enough to expose poss
 anyway. I also disassembled the turnbuckles and quickly cleaned everything with a ScotchBrite pad; for some reason the bolts got rather dirty.
 
 ![cleaned turnbuckles and chain plates](images/shiny-chainplates-web.jpg)
-{: gpic="album/AF1QipMrZEDAFlauZIsp_GkzBeQbI1T3qq3mfzFystwq/photo/AF1QipOY_-XmefiOS7Fiear6WY9yHMIftFyij-aMv5Vm"}
 
 
 [toerails]: ../toerails/2018-11-18-overview.html

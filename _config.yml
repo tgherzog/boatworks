@@ -2,6 +2,7 @@
 title: Sailboat Project Log
 description: "This is my project log for projects on my Allied Seabreeze."
 permalink: :categories/:year-:month-:day-:title:output_ext
+dropbox_root: "https://www.dropbox.com/sh/r7c0wsx9tmq5wnk/AACswH-WPDpc9bvx6o14_i2pa"
 
 sass:
   sass_dir: css
@@ -39,9 +40,10 @@ defaults:
     scope:
       path: "projects/chainplates"
     values:
-      key: "toerails"
+      key: "chainplates"
       project: "Rebed Chain Plates With Butyl Tape"
       top: "2020-07-24-chainplates.html"
+      picMode: 'dropbox'
   -
     scope:
       path: "projects/coamings"
