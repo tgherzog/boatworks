@@ -36,6 +36,7 @@ defaults:
       key: "toerails"
       project: "Teak Toe Rail Replacement"
       top: "2018-11-18-overview.html"
+      dbpath: "https://www.dropbox.com/sh/qpv5q61h6hakcbo/AADFqm03_3fMbY-twd9Nyd6Ha"
   -
     scope:
       path: "projects/chainplates"
@@ -43,7 +44,7 @@ defaults:
       key: "chainplates"
       project: "Rebed Chain Plates With Butyl Tape"
       top: "2020-07-24-chainplates.html"
-      picMode: 'dropbox'
+      dbpath: "https://www.dropbox.com/sh/r7c0wsx9tmq5wnk/AACswH-WPDpc9bvx6o14_i2pa/chainplates"
   -
     scope:
       path: "projects/coamings"

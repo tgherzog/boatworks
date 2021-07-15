@@ -10,8 +10,8 @@ $(document).ready(function() {
         if( parts ) {
             // wrap the the image in a link to its high-res counterpart, either in local storage or Dropbox
             var url = parts[1] + parts[2];
-            if( siteConfig.largePicSrc == 'dropbox' ) {
-                url = siteConfig.dropbox_root + '/' + siteConfig.project + '?preview=' + url;
+            if( siteConfig.dbpath ) {
+                url = siteConfig.dbpath + '?preview=' + url;
             }
             else {
               url = 'images/' + url;

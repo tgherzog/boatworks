@@ -10,9 +10,8 @@
 
   <script type="text/javascript">
     var siteConfig = {
-      dropbox_root: '{{ site.dropbox_root }}',
       project: '{{ page.key }}',
-      largePicSrc: '{{ page.picMode | default: 'local' }}'
+      dbpath: '{{ page.dbpath | default: '' }}'
     };
   </script>
   <script src="{{ "assets/js/projectpix.js" | relative_url }}"></script>
