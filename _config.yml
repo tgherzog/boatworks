@@ -44,7 +44,7 @@ defaults:
       key: "chainplates"
       project: "Rebed Chain Plates With Butyl Tape"
       top: "2020-07-24-chainplates.html"
-      dbpath: "https://www.dropbox.com/sh/r7c0wsx9tmq5wnk/AACswH-WPDpc9bvx6o14_i2pa/chainplates"
+      dbpath: "https://www.dropbox.com/sh/tplimnh9zd8jyxr/AAB29UJpKhwkClyCXo4jrmBRa"
   -
     scope:
       path: "projects/coamings"
@@ -52,3 +52,4 @@ defaults:
       key: "coamings"
       project: "Refurbish Mahogany Cockpit Coamings"
       top: "2021-01-01-coamings.html"
+      dbpath: "https://www.dropbox.com/sh/vog24ola3asvokh/AACGSpm9i6TJU7GXxBQ-sI46a"
