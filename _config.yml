@@ -53,3 +53,11 @@ defaults:
       project: "Refurbish Mahogany Cockpit Coamings"
       top: "2021-01-01-coamings.html"
       dbpath: "https://www.dropbox.com/sh/vog24ola3asvokh/AACGSpm9i6TJU7GXxBQ-sI46a"
+  -
+    scope:
+      path: "projects/hull"
+    values:
+      key: "hull"
+      project: "Refurbish and Repaint Hull with Alexseal"
+      top: "2020-07-01-overview.html"
+      dbpath: "https://www.dropbox.com/sh/ayixnoloexg9f2q/AADPELyvRKagSJoLniqv6ywAa"
