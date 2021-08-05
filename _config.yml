@@ -37,6 +37,7 @@ defaults:
       project: "Teak Toe Rail Replacement"
       top: "2018-11-18-overview.html"
       dbpath: "https://www.dropbox.com/sh/qpv5q61h6hakcbo/AADFqm03_3fMbY-twd9Nyd6Ha"
+      draft: true
   -
     scope:
       path: "projects/chainplates"
@@ -53,6 +54,7 @@ defaults:
       project: "Refurbish Mahogany Cockpit Coamings"
       top: "2021-01-01-coamings.html"
       dbpath: "https://www.dropbox.com/sh/vog24ola3asvokh/AACGSpm9i6TJU7GXxBQ-sI46a"
+      draft: true
   -
     scope:
       path: "projects/hull"
@@ -61,3 +63,4 @@ defaults:
       project: "Refurbish and Repaint Hull with Alexseal"
       top: "2020-07-01-overview.html"
       dbpath: "https://www.dropbox.com/sh/ayixnoloexg9f2q/AADPELyvRKagSJoLniqv6ywAa"
+      draft: true

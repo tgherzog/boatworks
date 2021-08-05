@@ -17,7 +17,7 @@ essentially, a place to park and share my project notes and photos so I remember
 <ul class="toc">
 {% for elem in site.defaults %}
   {% if elem.values.project %}
-  <li>{{ elem.values.project }}<ul>
+  <li>{{ elem.values.project }}{% if elem.values.draft %} <em>(work in progress)</em>{% endif %}<ul>
   {% assign cat = elem.scope.path | split: "/" | last %}
   {% for post in site.categories[cat] reversed %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
