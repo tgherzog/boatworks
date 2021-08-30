@@ -64,3 +64,12 @@ defaults:
       top: "2020-07-01-overview.html"
       dbpath: "https://www.dropbox.com/sh/ayixnoloexg9f2q/AADPELyvRKagSJoLniqv6ywAa"
       draft: true
+  -
+    scope:
+      path: "projects/hatch-cover"
+    values:
+      key: "hatch-cover"
+      project: "Replacement Fiberglass Hatch Cover"
+      top: "2021-01-01-overview.html"
+      dbpath: "https://www.dropbox.com/sh/hr0tz3ytg01d0e4/AAB1iEUTyfZNb0FTT5vikb9La"
+      draft: true
