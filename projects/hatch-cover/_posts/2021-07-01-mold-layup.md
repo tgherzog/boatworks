@@ -52,7 +52,7 @@ what I had on hand. Before layup I precut all my sections, 5 square pieces for t
 rectangular pieces for each of the sides. Each piece was slightly oversized so there would be
 some overlap. I also cut a square piece of 1/4" balsa core to make the top side stronger.
 
-After applying mold release to the entired mold (I used Mann Ease Release 200 but I'm sure anything would suffice)
+After applying mold release to the entired mold (I used Mann Ease Release 200 but I'm sure any similar product would suffice)
 I mixed up some thickened epoxy, applied it to the top with a chip brush, and added the first top piece. Then
 I did the same with each of the four sides, overlapping the cloth pieces at the corners, and rolling
 out the air bubbles with a fin roller. Then I just repeated the process 3 times over but using unthickened
