@@ -55,7 +55,9 @@ don't receive any commissions. You should shop around.*
   Seabreeze cove stripe arrowhead and fins (Fine Line is expensive so I used it only for priming and painting
   and used general purpose painter's tape for sanding the stripes)
 * My templates for the Seabreeze cove stripe (fin and arrowhead) are
-  [here](../../assets/docs/seabreeze-cove-stripe-ornaments.pdf) and [here](../../assets/docs/seabreeze-cove-stripe-layout.pdf)
+  [here](../../assets/docs/seabreeze-cove-stripe-ornaments.pdf),
+  [here](../../assets/docs/seabreeze-cove-stripe-position.pdf),
+   and [here](../../assets/docs/seabreeze-cove-stripe-reverse.pdf)
 
 #### Alexseal ####
 
