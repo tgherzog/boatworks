@@ -27,6 +27,14 @@ areas that needed it, and sanded the surface smooth.
 ![Hatch cover with fairing](images/hatch-cover-with-fairing-web.jpg "Hatch cover with a layer of fairing compound, sanded smooth, to cover the print through")
 
 After another coat of primer, there were still a couple of spots with minor pinholes, but as a whole
-the surface was much improved. I could have fixed these remaining spots as well (more fairing compound and sanding), but
-I decided to take my chances that 3-4 coats of Brightside would cover these up.
+the surface was much improved, and I reckoned 3-4 coats of Brightside plus a non-skid coat would cover
+the remaining spots (which they did... mostly).
 
+Here it is installed:
+
+![Installed hatch cover](images/installed-cover-closed-web.jpg "Installed hatch cover")
+
+![Installed open hatch cover](images/installed-cover-open-web.jpg)
+
+**The End**
+{: .center :}
