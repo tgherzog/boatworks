@@ -36,7 +36,7 @@ defaults:
       key: "toerails"
       project: "Teak Toe Rail Replacement"
       top: "2018-11-18-overview.html"
-      dbpath: "https://www.dropbox.com/sh/qpv5q61h6hakcbo/AADFqm03_3fMbY-twd9Nyd6Ha"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/toerails"
       draft: true
   -
     scope:
@@ -45,7 +45,7 @@ defaults:
       key: "chainplates"
       project: "Rebed Chain Plates With Butyl Tape"
       top: "2020-07-24-chainplates.html"
-      dbpath: "https://www.dropbox.com/sh/tplimnh9zd8jyxr/AAB29UJpKhwkClyCXo4jrmBRa"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/chainplates"
   -
     scope:
       path: "projects/coamings"
@@ -53,7 +53,7 @@ defaults:
       key: "coamings"
       project: "Refurbish Mahogany Cockpit Coamings"
       top: "2021-01-01-coamings.html"
-      dbpath: "https://www.dropbox.com/sh/vog24ola3asvokh/AACGSpm9i6TJU7GXxBQ-sI46a"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/coamings"
       draft: true
   -
     scope:
@@ -62,7 +62,7 @@ defaults:
       key: "hull"
       project: "Refurbish and Repaint Hull with Alexseal"
       top: "2020-07-01-overview.html"
-      dbpath: "https://www.dropbox.com/sh/ayixnoloexg9f2q/AADPELyvRKagSJoLniqv6ywAa"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/hull"
       draft: true
   -
     scope:
@@ -71,4 +71,4 @@ defaults:
       key: "hatch-cover"
       project: "Replacement Fiberglass Hatch Cover"
       top: "2021-01-01-overview.html"
-      dbpath: "https://www.dropbox.com/sh/hr0tz3ytg01d0e4/AAB1iEUTyfZNb0FTT5vikb9La"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/hatch-cover"
