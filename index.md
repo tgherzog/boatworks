@@ -14,6 +14,8 @@ essentially, a place to park and share my project notes and photos so I remember
 
 ### Projects ###
 
+[Gallery of some recent projects](gallery.html) summarizes some of the projects described below.
+
 <ul class="toc">
 {% for elem in site.defaults %}
   {% if elem.values.project %}
