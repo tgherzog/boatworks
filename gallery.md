@@ -29,6 +29,7 @@ and ensuring that the hatch opened smoothly and closed snugly.
 ### Hull repaint ###
 
 ![Hull repaint](assets/img/gallery/project-gallery-hull-repaint.jpg)
+{: .gallery-image :}
 
 The existing Awlgrip paint job was at least 25 years old and failing in several spots, exposing
 the original gelcoat beneath. I sanded the hull back to gelcoat, filled several dozen holes
@@ -40,6 +41,7 @@ I'm still working on the boot and cove stripes.
 ### Custom instrument panel ###
 
 ![Custom instrument panel](assets/img/gallery/project-gallery-instrument-panel.jpg)
+{: .gallery-image :}
 
 This project replaces an OEM plastic instrument panel mounted on aging plywood with
 one made of new mahogany plywood within an inset mahogany frame. I also wanted to replace
