@@ -47,6 +47,7 @@ This project replaces an OEM plastic instrument panel mounted on aging plywood w
 one made of new mahogany plywood within an inset mahogany frame. I also wanted to replace
 some unused instruments, untangle a few decades worth of convoluted wiring, and--literally--add
 a few new bells and whistles. The new setup also includes a properly wired engine alarm
+with the instrument circuits wired through a bus bar for eimplicity
 and an extra switch to toggle the backlight on the cockpit compass. The plywood and frame
 are sealed with clear epoxy and varnished. Not shown is a wrap-around mahogany cover held
-in place with magnets that line up with the brass rivets.
+in place with magnets that attach to the brass rivets.
