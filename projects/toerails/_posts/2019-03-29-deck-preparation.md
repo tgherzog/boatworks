@@ -8,17 +8,14 @@ of the genoa track, suggesting that at one point the track had been replaced, ne
 drilled, and the previous holes left as they were. Understandable, but... yikes! We briefly
 considered reusing the same mounting holes as the previous toe rail/genoa track used to
 avoid drilling yet another set of holes in the deck, but quickly decided this was foolhardy.
-It would have required drilling mount holes for the new toe rails from beneath the deck
-during the dry fit, which I doubt would have been possible (too many locations are inaccessible
-with power tools) and in any case would have taken much longer. By contrast, it's easy to
-fill the old holes with epoxy and start fresh.
 
 ![lots of fastener holes](images/exposed-fastener-holes-web.jpg "Lots of exposed fastener holes suggest this wasn't the first toe rail project on this boat")
 
-To fill the old fastener holes we mixed epoxy with a generous amount of fumed silica to about a mayonnaise
-thickness. Sonny has this neat trick were he filled a plastic sandwich bag with epoxy and cut a small
-corner to squeeze the epoxy out like an icing bag. I taped the holes from beneath to keep the epoxy
-from dripping into the cabin and holds, so this step went pretty quick. And even though the finished
+Instead, we filled all fastener holes with epoxy thickened generously with fumed silica. I taped the
+holes from beneath to keep the epoxy from dripping on anything below deck. Sonny had a clever trick
+where will filled a plastic sandwich bag with epoxy, cut a small slit in one corner, and squeezed
+the epoxy into each hole like an icing bag.
+Even though the finished
 rail project was still a long way off, this step was a huge step in solving a lot of those "mystery leaks"
 that had been plaguing me for years.
 
@@ -36,10 +33,7 @@ That said, we discovered that the deck-hull joint was not uniformly spaced aroun
 it was closer to 5/8" on starboard and early 7/8" on port. It's not clear to me if this was by design or the
 result of a repair at some point. Whoever made the previous rails apparently
 resolved this by cutting a deeper bevel into the bottom of the rails which tapered to 5/16" as it went aft.
-That struck us as too risky; it's one thing to make minor adjustments to the toe rail's profile during the
-dry fit. We thought this approach would run the risk of oversanding the rail and ruining some very expensive wood.
-Instead, we decided to level off the deck-hull joint at the bow so it was a consistent depth all the way
-around.
+We decided instead to fill in the port-side joint so that it was consistent with the starboard side.
 
 To begin, Sonny sanded through the paint and gelcoat on the hull side of the joint to expose the fiberglass.
 We then made a dam with painter's tape on the hull to keep the epoxy from running off the side. For strength

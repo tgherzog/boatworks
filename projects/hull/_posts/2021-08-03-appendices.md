@@ -9,7 +9,7 @@ with other projects. The estimated
 dates are based on timestamps in the photos I took. Unfortunately
 I did not keep track of actual days worked. I would roughly estimate this project at 35-37 working days
 including the repeated final coat but excluding construction of the enclosure. The boot and cove
-stripes should take an additional 4-5 days*
+stripes should take an additional 4-5 days.*
 
 Stage                                  | Est. Completion Date
 -------------------------------------- | ---------------------:
