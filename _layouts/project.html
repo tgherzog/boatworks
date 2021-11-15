@@ -19,10 +19,14 @@ layout: default
   {% endif %}
 {% endfor %}
 
-<h1 class="project-title{{ title_class }}">{{ page.project }}</h1>
-{% if page.showtitle != false %}
-<h2>{{ page.title }}</h2>
+<ol class="breadcrumb">
+    <li><a href="{{ "/projects.html" | relative_url }}">Projects</a></li>
+{% if page.project %}
+    <li><a id="project" project-key="{{ page.key }}" href="{{ page.top }}">{{ page.project }}</a></li>
 {% endif %}
+</ol>
+
+<h2>{{ page.title }}</h2>
 
 {{ content }}
 

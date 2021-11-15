@@ -2,17 +2,100 @@
 ---
 
 $img_width: 600px;
+$navbar_break: 420px;
 
 .container {
   width: auto;
   max-width: 680px;
 }
 
+.navbar {
+  .navbar-brand { display: none }
+
+  /* move hamburger menu to left side */
+  .navbar-toggle {
+    float: left;
+    margin-left: 15px;
+    margin-right: 0;
+  }
+
+  .sm-icons {
+    float: right !important;
+    margin-top: 15.5px;
+
+    img {
+      width: 24px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar .sm-icons { margin-top: 8px }
+}
+
+
+/* reset navbar breaks; this code works if the split is *less* than the default of 768px.
+   See https://stackoverflow.com/questions/42724884/bootstrap-navbar-collapse-point-768px/42725215#42725215
+*/
+
+@media (min-width: $navbar_break) {
+    .collapse {
+        display: block;
+    }
+
+    .navbar-header {
+        float: left;
+    }
+
+    .navbar-toggle {
+        display: none;
+    }
+
+    .navbar-nav.navbar-left {
+       float: left;
+       margin: 0;
+    }
+
+    .navbar-nav.navbar-right {
+       float: right;
+       margin: 0;
+    }
+    .navbar-nav>li {
+        float: left;
+    }
+    .navbar-nav>li>a {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: $navbar_break) {
+     .collapse {
+        display: none;
+     }
+
+     .navbar-header {
+        display: block;
+     }
+}
+
+
 footer {
   .row {
       padding: 8px 15px;
       margin-top: 20px;
       background: #f5f5f5;
+  }
+}
+
+.projects {
+  h3 {
+    em {
+      font-size: 0.7em;
+      font-weight: normal;
+      font-style: normal;
+      color: #888;
+    }
   }
 }
 

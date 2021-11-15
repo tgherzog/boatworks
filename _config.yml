@@ -1,5 +1,5 @@
 # Site settings
-title: Sailboat Project Log
+title: Potomac Boatcraft
 description: "This is my project log for projects on my Allied Seabreeze."
 permalink: :categories/:year-:month-:day-:title:output_ext
 dropbox_root: "https://www.dropbox.com/sh/r7c0wsx9tmq5wnk/AACswH-WPDpc9bvx6o14_i2pa"
@@ -14,9 +14,20 @@ markdown: kramdown
 exclude:
 - README.md
 - Makefile
+- bogus
 - LICENSE
 - CNAME
 - rawpix
+
+menu:
+- ["Home", "/"]
+- ["Gallery", "/gallery.html"]
+- ["Projects", "/projects.html"]
+- ["Contact", "/contact.html"]
+
+contact:
+  email: mailto:potomacboatcraft@gmail.com
+  insta: https://instagram.com/potomacboatcraft
 
 defaults:
   -
@@ -26,7 +37,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "projects"
+      path: "projects/"
     values:
       layout: "project"
   -

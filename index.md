@@ -1,30 +1,24 @@
 ---
-title: Contents
+title: Home Page
+menu: /
 ---
 
-# Boatworks: A Project Log #
+# Potomac Boatcraft #
 {: .site-title :}
-
-This is a project journal for my [Allied Seabreeze](http://www.alliedseabreeze35.org/);
-essentially, a place to park and share my project notes and photos so I remember what I did.
 
 ![Cloud 9 in Profile](assets/img/cloud-nine-profile.jpg)
 {: .banner-image :}
 
 
-### Projects ###
+#### Welcome! ####
 
-[Gallery of some recent projects](gallery.html) summarizes some of the projects described below.
+Potomac Boatcraft is a startup marine services company
+in the northern Virginia and Maryland area
+focusing on the repair, renovation, maintainance and makeover of classic
+old boats. It's based on my ten years' experience owning and renovating
+my own boat, where I discovered that I like renovating boats *almost*
+as much as I like sailing them.
 
-<ul class="toc">
-{% for elem in site.defaults %}
-  {% if elem.values.project %}
-  <li>{{ elem.values.project }}{% if elem.values.draft %} <em>(work in progress)</em>{% endif %}<ul>
-  {% assign cat = elem.scope.path | split: "/" | last %}
-  {% for post in site.categories[cat] reversed %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul></li>
-  {% endif %}
-{% endfor %}
-</ul>
+If you have a small or large renovation project or you are thinking
+of making a few improvements, feel free to [contact me]({{ site.contact.email }})
+or check out the [project gallery](gallery.html).

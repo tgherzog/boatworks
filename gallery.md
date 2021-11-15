@@ -1,5 +1,6 @@
 ---
 title: Project Gallery
+menu: /gallery.html
 ---
 
 # Select Projects #
