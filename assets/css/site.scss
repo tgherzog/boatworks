@@ -149,6 +149,24 @@ footer {
   text-align: center;
 }
 
+.navbar {
+  margin-bottom: 10px;
+}
+
+div.row-header-logo img {
+  width: 35%;
+}
+
+div.container.home {
+  div.row-header-logo {
+    margin-top: 10px;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
 .project-title.secondary {
   color: #aaa;
   font-size: 18px;

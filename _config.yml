@@ -35,6 +35,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      bodyClass: "gah"
   -
     scope:
       path: "projects/"

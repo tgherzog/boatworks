@@ -1,10 +1,8 @@
 ---
 title: Home Page
 menu: /
+class: home
 ---
-
-# Potomac Boatcraft #
-{: .site-title :}
 
 ![Cloud 9 in Profile](assets/img/cloud-nine-profile.jpg)
 {: .banner-image :}
@@ -14,10 +12,11 @@ menu: /
 
 Potomac Boatcraft is a startup marine services company
 in the northern Virginia and Maryland area
-focusing on the repair, renovation, maintainance and makeover of classic
+focusing on the repair, renovation, maintainance and makeovers of classic
 old boats. It's based on my ten years' experience owning and renovating
-my own boat, where I discovered that I like renovating boats *almost*
-as much as I like sailing them.
+my own boat, including significant projects involving fiberglass repair and fabrication; marine carpentry, gas and electronics systems, and detailing.
+
+
 
 If you have a small or large renovation project or you are thinking
 of making a few improvements, feel free to [contact me]({{ site.contact.email }})
