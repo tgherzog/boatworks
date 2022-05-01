@@ -1,5 +1,6 @@
 ---
 title: Project Log
+layout: default
 menu: /projects.html
 class: projects
 ---
