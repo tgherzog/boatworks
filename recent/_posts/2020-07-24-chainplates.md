@@ -219,9 +219,6 @@ with a plastic putty knife or other soft but stiff edge.
 
 ![final chain plate installation](images/chainplates/final-installation-web.jpg "Turnbuckle and chain plate cover in place and ready to tighten down to the deck")
 
-**The End**
-{: .center :}
-
 
 
 [toerails]: /projects/toerails/2018-11-18-overview.html
