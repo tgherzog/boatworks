@@ -40,6 +40,7 @@ defaults:
       path: "recent"
     values:
       layout: "project"
+      awspath: "https://zognet-boatworks.s3.amazonaws.com/recent-projects"
   -
     scope:
       path: "projects"
@@ -54,14 +55,6 @@ defaults:
       top: "2018-11-18-overview.html"
       awspath: "https://zognet-boatworks.s3.amazonaws.com/toerails"
       draft: true
-  -
-    scope:
-      path: "projects/chainplates"
-    values:
-      key: "chainplates"
-      project: "Rebed Chain Plates With Butyl Tape"
-      top: "2020-07-24-chainplates.html"
-      awspath: "https://zognet-boatworks.s3.amazonaws.com/chainplates"
   -
     scope:
       path: "projects/coamings"
