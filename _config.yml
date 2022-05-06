@@ -37,6 +37,11 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "recent"
+    values:
+      layout: "project"
+  -
+    scope:
       path: "projects"
     values:
       layout: "project"

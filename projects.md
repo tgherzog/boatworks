@@ -16,6 +16,17 @@ Most projects involve my personal boat, an
 Hopefully folks will find this useful.
 Feel free to [contact me with questions]({{ site.contact.email }}).
 
+<h2>Recent Projects</h2>
+<div class="post-list">
+<ul>
+{% for post in site.categories['recent'] %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: "%Y/%m/%d" }})</li>
+{% endfor %}
+</ul>
+</div>
+{{ site.tags['foobar'][0].title }}
+<h2>Long Term Projects</h2>
+<div class="post-list">
 {% for elem in site.defaults %}
   {% if elem.values.project %}
   <h3>{{ elem.values.project }}{% if elem.values.draft %} <em>(work in progress)</em>{% endif %}</h3>
@@ -27,3 +38,4 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
   </ul>
   {% endif %}
 {% endfor %}
+</div>
