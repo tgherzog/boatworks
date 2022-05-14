@@ -12,9 +12,10 @@ class: home
 
 Potomac Boatcraft is a startup marine services company
 in the northern Virginia and Maryland area
-focusing on the repair, renovation, maintainance and makeovers of classic
+focusing on the repair, renovation, maintenance and makeovers of classic
 old boats. It's based on my ten years' experience owning and renovating
-my own boat, including significant projects involving fiberglass repair and fabrication; marine carpentry, gas and electronics systems, and detailing.
+my own boat, an [Allied Seabreeze 35](http://www.alliedseabreeze35.org/),
+including significant projects involving fiberglass repair and fabrication; marine carpentry, gas and electronics systems, and detailing.
 
 
 
