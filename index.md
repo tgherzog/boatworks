@@ -21,4 +21,4 @@ including significant projects involving fiberglass repair and fabrication; mari
 
 If you have a small or large renovation project or you are thinking
 of making a few improvements, feel free to [contact me]({{ site.contact.email }})
-or check out the [project gallery](gallery.html).
+or check out the [project gallery](gallery.html) and [recent projects](projects.html).

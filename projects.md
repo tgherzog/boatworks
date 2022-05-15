@@ -16,7 +16,10 @@ Most projects involve my personal boat, an
 Hopefully folks will find this useful.
 Feel free to [contact me with questions]({{ site.contact.email }}).
 
-<h2>Recent Projects</h2>
+## Recent Projects ##
+
+[Follow me on Instagram]({{ site.contact.insta}}) for more updates.
+
 <div class="post-list">
 <ul>
 {% for post in site.categories['recent'] %}
@@ -25,7 +28,9 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 </ul>
 </div>
 {{ site.tags['foobar'][0].title }}
-<h2>Long Term Projects</h2>
+
+## Long Term Projects ##
+
 <div class="post-list">
 {% for elem in site.defaults %}
   {% if elem.values.project %}
