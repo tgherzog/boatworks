@@ -62,5 +62,4 @@ Boat's Total Fair (which mixes green).
 
 All that remained after that was to apply primer and paint.
 
-**Insert finished picture here**
-{: .center :}
+![painted deck](images/recore/recore-painted-web.jpg "And finally finished with primer and three coats of a topcoat paint")
