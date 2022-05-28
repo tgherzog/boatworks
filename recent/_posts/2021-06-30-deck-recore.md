@@ -21,7 +21,7 @@ In cases like this it's common to attempt to remove the outer deck fiberglass as
 For a couple of reasons, I decided not to go this route and made little attempt to preserve the original deck. The first reason is that I initally hoped that the affected
 area was much smaller than it turned out to be. Unfortunately, removing one small piece just exposed more wet core, and I enlarged the excavation area piece by piece,
 giving me 8-10 small pieces of deck instead of one large one. The second reason is that the area in question was in an awkward spot, immediately
-adjaced to the starboard cockpit seat, and I wasn't confident that the original deck could be fit back in place correctly.
+adjacent to the starboard cockpit seat, and I wasn't confident that the original deck could be fit back in place correctly.
 Besides, I wanted the experience of laying up new fiberglass.
 
 In any event, it wasn't long before I had removed several feet of my starboard deck. The balsa core underneath was wet and spongy, even several feet
