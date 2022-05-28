@@ -9,7 +9,7 @@ Finally, I started poking around (literally) on the underside of the deck with a
 
 ![testing deck for holes](images/recore/pick1-web.jpg "I started by probing the underside of the deck with a pick. Multiple spots where the pick went straight through")
 
-Apparently a previous owner had removed some piece of deck hardware and filled the fastener holes with boat calk or some other polysulfide.
+Apparently a previous owner had removed some piece of deck hardware and filled the fastener holes with boat caulk or some other polysulfide.
 Under the non-skid paint was... effectively nothing. I could easily poke straight through the deck in at least four places.
 
 ![testing deck for holes](images/recore/pick2-web.jpg "Yeah, this is not supposed to happen...")
