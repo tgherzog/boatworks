@@ -5,11 +5,11 @@ title: Appendices
 ### Estimated Timeline ###
 
 *Note: except for priming and painting I did most of this project working 1-2 days per week concurrent
-with other projects. The estimated
+with other projects both both-related and otherwise. The estimated
 dates are based on timestamps in the photos I took. Unfortunately
-I did not keep track of actual days worked. I would roughly estimate this project at 35-37 working days
-including the repeated final coat but excluding construction of the enclosure. The boot and cove
-stripes should take an additional 4-5 days.*
+I did not keep track of actual days worked. I would roughly estimate this project at 35-40 working days
+including the repeated final coat but excluding construction and disassembly of the enclosure.*
+
 
 Stage                                  | Est. Completion Date
 -------------------------------------- | ---------------------:
@@ -27,7 +27,7 @@ Topcoats 1-3                           | 6/7/2021
 Finish coat (1st attempt)              | 6/17/2021
 Enclosure disassembly                  | 6/25/2021
 Finish coat (2nd attempt)              | 7/7/2021
-Boot and cove stripes                  | TBD
+Boot and cove stripes                  | 5/19/2022
 
 ### Materials and Equipment ###
 
