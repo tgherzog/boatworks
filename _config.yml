@@ -72,7 +72,6 @@ defaults:
       project: "Refurbish and Repaint Hull with Alexseal"
       top: "2020-07-01-overview.html"
       awspath: "https://zognet-boatworks.s3.amazonaws.com/hull"
-      draft: true
   -
     scope:
       path: "projects/hatch-cover"
