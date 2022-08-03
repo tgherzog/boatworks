@@ -65,9 +65,12 @@ another mounting panel for the new instruments out of King Starboard.
 
 ![Finished cockpit panel](images/panel/finished-cockpit-panel-front-web.jpg "The new speed and depth gauges mounted on King Starboard")
 
-I'm still working out the preferred placement for the the GPS receiver and depth transducer after the owner has a
-chance to test the upgrades on the water. So for now I've left the back of the instrument panel open, but may cover this area with an interior panel in the the future.
+On the cabin side, I temporarily taped the GPS antenna in place so the owner could test the upgrades on the water.
 
-![Back side of instrument panel](images/panel/finished-cockpit-panel-rear-web.jpg "Once we work out some of the sensor wiring issues we may cover this section with some sort of panel")
+![Back side of instrument panel](images/panel/finished-cockpit-panel-rear-web.jpg "Instrument panel from the cabin side")
+
+Once we confirmed the GPS antenna would work when mounted within the cabin, I afixed it to the inside of the starboard panel and created a cover to keep the wiring out of sight: a nice upgrade from the previous setup.
+
+![Instrument panel cover](images/panel/finished-cockpit-panel-rear-cover-web.jpg "A mahogany panel to cover the new instrument wiring")
 
 
