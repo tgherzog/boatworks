@@ -51,9 +51,8 @@ don't receive any commissions. You should shop around.*
 * [Mirka Guide Coat](https://mirka-online.com/9193500111-mirka-dry-guide-coat-black-100g-qty-1.html)
 * [Redtree 4" Mohair Paint Rollers](https://www.amazon.com/gp/product/B01CZ2Y51K)
 * [3M Fine Line Masking Tape](https://www.jamestowndistributors.com/product/product-detail/2146) 1" for
-  masking the waterline and for painting the boot and cove stripes; 1/8" for the tight corners around the
-  Seabreeze cove stripe arrowhead and fins (Fine Line is expensive so I used it only for priming and painting
-  and used general purpose painter's tape for sanding the stripes)
+  masking the waterline and for painting the cove stripe and most of the boot stripe; 1/2" and 1/4" for tight
+  curves around the bow and stern
 * My templates for the Seabreeze cove stripe (fin and arrowhead) are
   [here](../../assets/docs/seabreeze-cove-stripe-ornaments.pdf),
   [here](../../assets/docs/seabreeze-cove-stripe-position.pdf),
