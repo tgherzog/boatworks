@@ -53,6 +53,17 @@ and an extra switch to toggle the backlight on the cockpit compass. The plywood 
 are sealed with clear epoxy and varnished. Not shown is a wrap-around mahogany cover held
 in place with magnets that attach to the brass rivets.
 
+
+### Sea Sprite makeover ###
+
+![Sea Sprite makeover](assets/img/gallery/project-gallery-sea-sprite.jpg)
+{: .gallery-image :}
+
+Some projects aren't especially complicated. What this charming 1980's Sea Sprite needed most
+was a really good scrubbing, followed by a teak sealant to restore its former shine.
+[Read more](recent/2022-09-03-sea-sprite.html)
+
+
 ### Distribution panel replacement ###
 
 ![New distribution panel](assets/img/gallery/project-gallery-dist-panel.jpg)
