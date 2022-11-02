@@ -60,7 +60,7 @@ Here are the finished sections installed back in the cockpit.
 
 ### Important Postscript ###
 
-A [comprehensive varnish comparison](2022-10-13-varnish-smackdown.html) I did
+A [comprehensive varnish comparison](2022-11-02-varnish-smackdown.html) I did
 during the 2022 season showed that Halcyon provides surprisingly poor UV protection
 over time. Fortunately there are one-part polyeurethane alternatives (including [Gleam][gleam] and [Lust][lust])
 that so far provide very good
