@@ -178,23 +178,15 @@ div.container.home {
   }
 }
 
-.thumbnail-gallery img {
-    width: 500px;
+.thumbnail-gallery {
+  margin: 1em 2em;
+
+  img {
     display: block;
-    margin: 2em auto 0;
-}
-
-
-@media(max-width: 525px) {
-  .thumbnail-gallery img {
-    width: 450px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
   }
-}
-
-@media(max-width: 475px) {
-    .thumbnail-gallery {
-      display: none;
-    }
 }
 
 blockquote {
