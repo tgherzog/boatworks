@@ -1,5 +1,6 @@
 ---
 title: A Sea Sprite Makeover
+tags: Woodworking
 ---
 
 Sometimes what a boat needs most is a really, really thorough scrubbing.

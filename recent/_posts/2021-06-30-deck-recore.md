@@ -1,5 +1,6 @@
 ---
 title: "Replacing Wet Deck Core"
+tags: Seabreeze Fiberglass
 ---
 
 This project started because I couldn't figure out why my starboard deck was still leaking. I had found and filled (with epoxy) every single

@@ -1,5 +1,6 @@
 ---
 title: Ugh! There's an UGLY Hole in My Transom
+tags: Seabreeze Fiberglass
 ---
 
 I was still basking in the glow of my [freshly painted hull][hull-repaint]

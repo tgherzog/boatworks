@@ -6,17 +6,26 @@ class: projects
 ---
 
 
-# Project Log #
+# Projects #
 
-This project log is a collection of documentation, notes, photos, resource links and assorted
-other bits of information and back-story which I revise frequently and share with
-fellow DIY owners.
-Most projects involve my personal boat, an
-[Allied Seabreeze](http://www.alliedseabreeze35.org/).
-Hopefully folks will find this useful.
+This section is a collection of posts I write on selected projects. Some are small but interesting;
+others are more significant, spanning multiple years. I've included both work for clients and
+work on my own boat, an 
+[Allied Seabreeze](http://www.alliedseabreeze35.org/) (hull #62).
+I try to include as much detail as possible: photos, product links,
+alternate approaches, and lessons learned. 
+
+Hopefully you'll find this information useful.
 Feel free to [contact me with questions]({{ site.contact.email }}).
 
-## Recent Projects ##
+**Jump to:**  
+<a href="#recent" class="btn btn-primary btn-sm">Recent work</a>
+<a href="#seabreeze" class="btn btn-primary btn-sm">Seabreeze</a>
+<a href="#fiberglass" class="btn btn-primary btn-sm">Fiberglass</a>
+<a href="#woodworking" class="btn btn-primary btn-sm">Woodworking</a>
+{: .center :}
+
+## Recent Work ## {#recent}
 
 [Follow me on Instagram]({{ site.contact.insta}}) for more updates.
 
@@ -29,7 +38,21 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 </div>
 {{ site.tags['foobar'][0].title }}
 
-## Long Term Projects ##
+## Projects by Category ##
+
+<div class="post-list">
+{% for tag in site.tags %}
+<h3 id="{{ tag[0] | replace: " ", "-" | replace: "_", "" | downcase }}">{{ tag[0] | replace: "_", " " }}</h3>
+<ul>
+{% for post in tag[1] %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.tagTitle | default: post.title }}</a> ({{ post.date | date: "%Y/%m/%d"}})</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
+
+
+## Major Projects ##
 
 <div class="post-list">
 {% for elem in site.defaults %}

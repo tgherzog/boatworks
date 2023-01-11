@@ -1,5 +1,6 @@
 ---
 title: "Varnish Smackdown: Going the Distance on Maintenance Coats"
+tags: Woodworking
 ---
 
 I'll start this post by confessing I'm a varnish aficionado.
