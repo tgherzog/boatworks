@@ -8,6 +8,9 @@ class: projects
 
 # Projects #
 
+![A few interesting project photos](assets/img/gallery/project-thumbnails.jpg)
+{: .thumbnail-gallery :}
+
 This section is a collection of posts I write on selected projects. Some are small but interesting;
 others are more significant, spanning multiple years. I've included both work for clients and
 work on my own boat, an 
@@ -23,7 +26,7 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 <a href="#seabreeze" class="btn btn-primary btn-sm">Seabreeze</a>
 <a href="#fiberglass" class="btn btn-primary btn-sm">Fiberglass</a>
 <a href="#woodworking" class="btn btn-primary btn-sm">Woodworking</a>
-{: .center :}
+{: .center .jump-links :}
 
 ## Recent Work ## {#recent}
 

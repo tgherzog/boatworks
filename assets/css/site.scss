@@ -178,6 +178,25 @@ div.container.home {
   }
 }
 
+.thumbnail-gallery img {
+    width: 500px;
+    display: block;
+    margin: 2em auto 0;
+}
+
+
+@media(max-width: 525px) {
+  .thumbnail-gallery img {
+    width: 450px;
+  }
+}
+
+@media(max-width: 475px) {
+    .thumbnail-gallery {
+      display: none;
+    }
+}
+
 blockquote {
   font-size: 1em; /* reset */
 }
@@ -185,6 +204,13 @@ blockquote {
 .project-title.secondary {
   color: #aaa;
   font-size: 18px;
+}
+
+.jump-links {
+  .btn {
+    display: inline-block;
+    margin-top: 0.5em;
+  }
 }
 
 .video {
