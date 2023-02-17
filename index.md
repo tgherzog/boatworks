@@ -10,7 +10,7 @@ class: home
 
 #### Welcome! ####
 
-Potomac Boatcraft is a startup marine services company
+Potomac Boatcraft is a marine services company
 in the northern Virginia and Maryland area
 focusing on the repair, renovation, maintenance and makeovers of classic
 old boats. It's based on my ten years' experience owning and renovating
