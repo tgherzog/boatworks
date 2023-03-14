@@ -30,6 +30,20 @@ layout: default
 
 {{ content }}
 
+{% if cat_list %}
+{% if true %}
+<hr class="nav-separator"/>
+<ul class="nav nav-pills nav-stacked">
+{% for post in cat_list reversed -%}
+{% if post.url == page.url -%}
+{% assign post_class=' class="active"' -%}
+{% else -%}
+{% assign post_class='' -%}
+{% endif -%}
+  <li role="presentation"{{post_class}}><a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% else %}
 <div class="btn-group" role="group">
 	{% if previous_post %}
 	<a class="btn btn-default" href="{{ previous_post.url | relative_url }}">&laquo; {{ previous_post.title }}</a>
@@ -38,3 +52,5 @@ layout: default
 	<a class="btn btn-default" href="{{ next_post.url | relative_url }}">{{ next_post.title }} &raquo;</a>
 	{% endif %}
 </div>
+{% endif %}
+{% endif %}
