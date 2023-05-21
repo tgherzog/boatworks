@@ -30,7 +30,7 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 
 ## Recent Work ## {#recent}
 
-[Follow me on Instagram]({{ site.contact.insta}}) for more updates.
+Follow me on [Facebook]({{ site.contact.fbook }}) or [Instagram]({{ site.contact.insta }}) for more updates.
 
 <div class="post-list">
 <ul>

@@ -10,4 +10,5 @@ menu: /contact.html
 Alexandria, VA  22301
 
 [Email](mailto:potomacboatcraft@gmail.com) |
-[Instagram](https://instagram.com/potomacboatcraft)
+[Facebook]({{ site.contact.fbook }}) |
+[Instagram]({{ site.contact.insta }})
