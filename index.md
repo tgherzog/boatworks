@@ -1,7 +1,8 @@
 ---
-title: Home Page
+fullTitle: Welcome to Potomac Boatcraft!
 menu: /
 class: home
+image: /assets/img/cloud-nine-profile.jpg
 ---
 
 ![Cloud 9 in Profile](assets/img/cloud-nine-profile.jpg)
