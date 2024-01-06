@@ -18,7 +18,7 @@ work on my own boat, an
 I try to include as much detail as possible: photos, product links,
 alternate approaches, and lessons learned. 
 
-Hopefully you'll find this information useful.
+I hope you find this information useful.
 Feel free to [contact me with questions]({{ site.contact.email }}).
 
 **Jump to:**  
@@ -26,6 +26,7 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 <a href="#seabreeze" class="btn btn-primary btn-sm">Seabreeze</a>
 <a href="#fiberglass" class="btn btn-primary btn-sm">Fiberglass</a>
 <a href="#woodworking" class="btn btn-primary btn-sm">Woodworking</a>
+<a href="#canvas" class="btn btn-primary btn-sm">Canvas</a>
 {: .center .jump-links :}
 
 ## Recent Work ## {#recent}
