@@ -11,12 +11,16 @@ class: projects
 ![A few interesting project photos](assets/img/gallery/project-thumbnails.jpg)
 {: .thumbnail-gallery :}
 
-This section is a collection of posts I write on selected projects. Some are small but interesting;
-others are more significant, spanning multiple years. I've included both work for clients and
-work on my own boat, an 
+This section is a collection of posts I write on select projects. Some are
+relatively small, completed over a days or a couple of weeks; others are multi-year
+renovations. It includes both work for clients and work on my own boat, an 
 [Allied Seabreeze](http://www.alliedseabreeze35.org/) (hull #62).
 I try to include as much detail as possible: photos, product links,
-alternate approaches, and lessons learned. 
+alternate approaches, and lessons learned.
+
+I also post on [Facebook]({{ site.contact.fbook }}) and [Instagram]({{ site.contact.insta }})
+and tend to post there more frequently. Follow those pages for the most
+recent updates.
 
 I hope you find this information useful.
 Feel free to [contact me with questions]({{ site.contact.email }}).
@@ -31,7 +35,8 @@ Feel free to [contact me with questions]({{ site.contact.email }}).
 
 ## Recent Work ## {#recent}
 
-Follow me on [Facebook]({{ site.contact.fbook }}) or [Instagram]({{ site.contact.insta }}) for more updates.
+For my most recent posts, check out
+[Facebook]({{ site.contact.fbook }}) or [Instagram]({{ site.contact.insta }}).
 
 <div class="post-list">
 <ul>
