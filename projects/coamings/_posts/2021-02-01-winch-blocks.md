@@ -2,15 +2,10 @@
 title: Winch Blocks
 ---
 
-**Note:** this part of the project wasn't especially smooth or linear, and
-in several places I had to double back and correct earlier mistakes. The following
-account reflects what I probably *should* have done, and where relevant I've included
-notes as to where I initially went wrong.
-
 Winch blocks weren't part of the original plan. But while fitting the port
 coaming Sonny noticed that the standalone starboard winch block had some serious
-rot issues of its own. So that would need to be fixed, which would mean removing
-the winch, sanding off the old vernish, filling the rot with epoxy, and
+rot issues of its own. That would need to be fixed, which would mean removing
+the winch, sanding off the old varnish, filling the rot with epoxy, and
 resealing. So the winch blocks would have to be part of the refurbishing after
 all. It turns out that removing the winch blocks was a lot easier than I thought,
 and I decided to refinish all of them. The winches themselves were way past due
@@ -32,7 +27,7 @@ with a power sander.
 
 Next I set about filling in the rotted area with epoxy. This was my first time
 using a [low viscocity epoxy](https://www.epoxyusa.com/low_viscosity_epoxy_p/me20.htm)
-and I'm still getting used to it. For this job I mixed in a bit of acetone
+and I was still getting used to it. For this job I mixed in a bit of acetone
 to encourage it to really soak into the rotted fibers. In hindsight I'm not
 sure that was necessary or even a good idea. Even though I taped off the edges
 the epoxy still ran everywhere, took *forever* to reach the [green stage](https://www.westsystem.com/instruction-2/epoxy-basics/epoxy-chemistry/),
@@ -71,12 +66,12 @@ case was that the bottom of the winch blocks featured five holes for the fastene
 and inside each hole was a 1/4" coupling nut that I absolutely did not want to risk exposing
 to epoxy. Is there a good way to protect the fastener holes that wouldn't adhere to
 the base or affect its level? The best option I could think of was leftover cheese wax,
-cheese wax, similar to paraffin, which I used to fill
+similar to paraffin, which I used to fill
 the fastener holes enough to protect the bolts but not sit too proud of the base. In
 hindsight this wasn't a great idea as the wax didn't release well from the epoxy, and
 I had to gouge and grind it out. But it served the primary purpose of protecting the couplings, and any
 ugliness wasn't a big concern since it wouldn't be visible and the entire surface
-would be finally sealed with butyl tape.
+would be finally sealed with Sikaflex.
 
 ![winch block base](images/winch-block-base1-web.jpg "Jib winch block with fastener holes filled with protective wax. Probably not the best approach")
 
@@ -96,7 +91,7 @@ bottom rather than the other way around, and I had to fair the block twice.
 
 Here's the finished based of the winch block after I scraped, ground and sanded out the protective wax,
 and sanded down the edges where the epoxy seeped out from beneath the base (as with the coaming end cap,
-I want a bit of seepage on all sides to ensure the epoxy is level and fully covers the surface).
+I wanted a bit of seepage on all sides to ensure the epoxy is level and fully covers the surface).
 
 ![winch block sealed](images/winch-block-base-finished-web.jpg "Base with protective wax removed. Not pretty, but effective")
 
@@ -139,7 +134,7 @@ got slightly green (I cut the center out leaving just the rim).
 I calculated how much epoxy would be needed to fill the perimeter to a depth of
 about 1/10", mixed up that amount, poured it into the yogurt container rim and
 waited until the epoxy started to become thick and a bit "green. This only took about 20 minutes
-since I was using "fast cure" or winter hardener. I kept a bit of residual epoxy
+since I was using "fast cure" hardener. I kept a bit of residual epoxy
 in the mix cup to swirl around to estimate how the epoxy pool on the plywood was doing.
 
 Once the epoxy had thickened, I removed the yogurt container rim, set the winch
@@ -153,7 +148,7 @@ first set of countersinks a bit deeper than I normally would have, I could
 drill final ones without cutting all the way through to the mahogany,
 and the countersinks would remain fully sealed.
 
-![resurfaced main block](images/main-block-after-resurfacing-web.jpg "Top surface is now faired and I need to trim the residual epoxy with a Dremel")
+![resurfaced main block](images/main-block-after-resurfacing-web.jpg "Top surface was now faired and I needed to trim the residual epoxy with a Dremel")
 
 ## Finishing Up ##
 
