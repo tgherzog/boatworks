@@ -7,7 +7,14 @@ A table saw jig made the joint cuts quick and uniform.
 
 ![scarf joint jig](images/scarf-joint-jig-web.jpg "Scarf joint jig")
 
-For the glue up we thickened the epoxy with teak sawdust that we collected from previous cuts with the table saw.
+**Note:** As I'll discuss a few posts later, the side-to-side scarf joints are not
+at all the right choice for this project given the types of stress the joints will
+be subject to. A better choice would have been top-to-bottom since the installation
+would exert shear force on the joints. Keep reading to see why, and how I've chosen to 
+compensate.
+{: .note :}
+
+For the glue-up we thickened the epoxy with teak sawdust that we collected from previous cuts with the table saw.
 This step is pretty straight-forward. We just lined up the segments as best we could and clamped them together
 on the flattest surface we could find (the table saw in this case). Plastic underneath guards against permanently
 gluing the wood to the surface beneath. Some seepage of epoxy from the joint is inevitable and even preferable.
