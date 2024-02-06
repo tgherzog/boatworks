@@ -1,6 +1,7 @@
 ---
 title: Ugh! There's an UGLY Hole in My Transom
-tags: Seabreeze Fiberglass
+tags: Seabreeze Fiberglass recent
+listDate: 2022-06-30
 ---
 
 I was still basking in the glow of my [freshly painted hull][hull-repaint]

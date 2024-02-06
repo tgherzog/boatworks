@@ -1,6 +1,7 @@
 ---
 title: A Sea Sprite Makeover
-tags: Woodworking
+tags: Woodworking recent
+listDate: 2022-09-03
 ---
 
 Sometimes what a boat needs most is a really, really thorough scrubbing.

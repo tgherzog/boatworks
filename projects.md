@@ -40,23 +40,25 @@ For my most recent posts, check out
 
 <div class="post-list">
 <ul>
-{% for post in site.categories['recent'] %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: "%Y/%m/%d" }})</li>
+{% assign recent_posts = site.tags.recent | sort: "listDate" | reverse %}
+{% for post in recent_posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.listDate | date: "%b, %Y" }})</li>
 {% endfor %}
 </ul>
 </div>
-{{ site.tags['foobar'][0].title }}
 
 ## Projects by Category ##
 
 <div class="post-list">
 {% for tag in site.tags %}
+{% if tag[0] != 'recent' %}
 <h3 id="{{ tag[0] | replace: " ", "-" | replace: "_", "" | downcase }}">{{ tag[0] | replace: "_", " " }}</h3>
 <ul>
 {% for post in tag[1] %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.tagTitle | default: post.title }}</a> ({{ post.date | date: "%Y/%m/%d"}})</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.date | date: "%b, %Y"}})</li>
 {% endfor %}
 </ul>
+{% endif %}
 {% endfor %}
 </div>
 
@@ -66,7 +68,7 @@ For my most recent posts, check out
 <div class="post-list">
 {% for elem in site.defaults %}
   {% if elem.values.project %}
-  <h3>{{ elem.values.project }}{% if elem.values.draft %} <em>(work in progress)</em>{% endif %}</h3>
+  <h3 id="{{ elem.values.key }}">{{ elem.values.project }}{% if elem.values.draft %} <em>(work in progress)</em>{% endif %}</h3>
   <ul>
   {% assign cat = elem.scope.path | split: "/" | last %}
   {% for post in site.categories[cat] reversed %}

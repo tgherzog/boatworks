@@ -1,6 +1,7 @@
 ---
 title: Upgraded Distribution Panel and Instruments
-tags: Woodworking Systems
+tags: Woodworking Systems recent
+listDate: 2022-05-21
 ---
 
 This was a fun project involving electricial systems and a bit of carpentry. The owner has

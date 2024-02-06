@@ -1,6 +1,7 @@
 ---
 title: "Refinishing Cockpit Tables"
-tags: Woodworking
+tags: Woodworking recent
+listDate: 2022-04-25
 ---
 
 A client and good friend asked me to refinish these drop-leaf cockpit tables for their Beneteau 400.

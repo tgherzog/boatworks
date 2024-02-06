@@ -55,7 +55,7 @@ defaults:
       project: "Teak Toe Rail Replacement"
       top: "2018-11-18-overview.html"
       awspath: "https://zognet-boatworks.s3.amazonaws.com/toerails"
-      draft: true
+      draft: false
   -
     scope:
       path: "projects/coamings"
@@ -64,7 +64,6 @@ defaults:
       project: "Refurbish Mahogany Cockpit Coamings"
       top: "2021-01-01-coamings.html"
       awspath: "https://zognet-boatworks.s3.amazonaws.com/coamings"
-      draft: true
   -
     scope:
       path: "projects/hull"

@@ -1,6 +1,7 @@
 ---
 title: "Varnish Smackdown: Going the Distance on Maintenance Coats"
-tags: Woodworking
+tags: Woodworking recent
+listDate: 2022-11-02
 ---
 
 I'll start this post by confessing I'm a varnish aficionado.
