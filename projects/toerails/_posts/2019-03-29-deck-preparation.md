@@ -22,7 +22,7 @@ that had been plaguing me for years.
 ![old fastener holes filled with epoxy](images/epoxy-filled-holes-web.jpg "Old fastener holes filled with epoxy")
 
 The other deck-related issue involved the deck-to-hull joint. The Seabreeze design employs an
-[inboard joint](http://www.alliedseabreeze35.org/files/Download/Allied%20Hull%20to%20Deck%20Joint.pdf) which
+[inboard joint](https://alliedseabreeze35.org/downloads/Allied%20Hull%20to%20Deck%20Joint.pdf) which
 has [become standard](https://www.sailmagazine.com/diy/sealing-the-hull-to-the-deck) for boats with toe rails.
 As a consequence, the deck is about 5/16" above the hull at the joint, requiring a bevel cut into the bottom
 of the toe rail. We briefly considered levelling off the deck to avoid this and make the toe rail fit easier,
