@@ -54,8 +54,9 @@ For my most recent posts, check out
 {% if tag[0] != 'recent' %}
 <h3 id="{{ tag[0] | replace: " ", "-" | replace: "_", "" | downcase }}">{{ tag[0] | replace: "_", " " }}</h3>
 <ul>
-{% for post in tag[1] %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.date | date: "%b, %Y"}})</li>
+{% assign posts = tag[1] | sort: "listDate" | reverse %}
+{% for post in posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.listDate | date: "%b, %Y"}})</li>
 {% endfor %}
 </ul>
 {% endif %}
