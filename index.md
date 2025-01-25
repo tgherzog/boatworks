@@ -26,8 +26,8 @@ follow my work on [Facebook]({{ site.contact.fbook }})
 or [Instagram]({{ site.contact.insta }}), or check out the links below.
 
 
-<a href="gallery.html" class="btn btn-primary btn-sm">Project Gallery</a>
 <a href="projects.html" class="btn btn-primary btn-sm">Recent Projects</a>
+<a href="gallery.html" class="btn btn-primary btn-sm">Project Gallery</a>
 {: .center .jump-links :}
 
 #### Sail Buddy ####
