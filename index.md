@@ -9,12 +9,12 @@ image: /assets/img/cloud-nine-profile.jpg
 {: .banner-image :}
 
 
-#### Welcome! ####
+## Welcome! ##
 
 Potomac Boatcraft is a marine services company
 in the northern Virginia and Maryland area
 focusing on the repair, renovation, maintenance and makeovers of classic
-old boats. It's based on my fourteen years' experience owning and renovating
+old boats. It's based on my sixteen years' experience owning and renovating
 my own boat, an [Allied Seabreeze 35](http://www.alliedseabreeze35.org/),
 including significant projects involving fiberglass repair and fabrication; marine carpentry, gas and electronics systems, and detailing.
 
@@ -30,7 +30,30 @@ or [Instagram]({{ site.contact.insta }}), or check out the links below.
 <a href="gallery.html" class="btn btn-primary btn-sm">Project Gallery</a>
 {: .center .jump-links :}
 
-#### Sail Buddy ####
+
+
+### Services: What I Do ###
+
+* Marine carpentry
+* Fiberglass repair and reconstruction
+* Gelcoat repair and touchup
+* Marine paint and varnish
+* New equipment installation, including:
+  * Swim platforms
+  * Decking systems
+  * Dinghy davits
+  * Cleats
+  * Through hulls, etc
+* Select canvas and upholstery projects
+
+
+### What I (Usually) Don't Do ###
+
+* Work on engines of any kind
+* Cleaning or detailing (buffing, polishing, waxing, etc) except when finishing a repair
+* Bottom (anti-fouling) paint, except when finishing a repair below the waterline
+
+## Sail Buddy ##
 
 I am also the author of the iOS app [Sail Buddy]({{ site.contact.sailbuddy }}).
 Sail Buddy is a light-weight app that displays course, speed and NMEA data in a fast, clean interface.
