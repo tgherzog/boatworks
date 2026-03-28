@@ -28,6 +28,8 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
+<p class="timestamp">{{ page.listDate | default: page.date | date: "%b %Y" }}</p>
+
 {{ content }}
 
 {% if cat_list %}

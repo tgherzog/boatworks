@@ -42,7 +42,7 @@ For my most recent posts, check out
 <ul>
 {% assign recent_posts = site.tags.recent | sort: "listDate" | reverse %}
 {% for post in recent_posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.listDate | date: "%b, %Y" }})</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> <span class="post-date">({{ post.listDate | date: "%b, %Y" }})</span></li>
 {% endfor %}
 </ul>
 </div>
@@ -56,7 +56,7 @@ For my most recent posts, check out
 <ul>
 {% assign posts = tag[1] | sort: "listDate" | reverse %}
 {% for post in posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> ({{ post.listDate | date: "%b, %Y"}})</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.listTitle | default: post.title }}</a> <span class="post-date">({{ post.listDate | date: "%b, %Y"}})</span></li>
 {% endfor %}
 </ul>
 {% endif %}

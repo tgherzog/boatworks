@@ -107,6 +107,14 @@ footer {
   }
 }
 
+.post-date {
+  display: none;
+}
+
+.timestamp {
+  color: #999;
+}
+
 .image-wrapper {
   width: 90%;
   max-width: $img_width;
