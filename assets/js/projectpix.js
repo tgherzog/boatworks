@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
 
-    $('img[src^="images/"]').each(function() {
+    $('img[src^="images/"], img.magic').each(function() {
         // wrap the image in a div: this lets us center the image and possibly add a caption
         $(this).wrap($('<div/>').addClass('image-wrapper'));
         var wrapper = $(this).parent();
