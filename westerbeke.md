@@ -18,6 +18,7 @@ but I think it's a pretty good estimate.
 
 ### Serious inquiries, contact ###
 
+  * Tim Herzog
   * (202) 299-4406 (voice or text)
   * <potomacboatcraft@gmail.com>
 
