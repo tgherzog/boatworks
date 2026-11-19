@@ -33,6 +33,7 @@ but I think it's a pretty good estimate.
 * Included in Sale:
   * Admiral panel, tachometer, oil and temperature gauges
   * Spare oil filters, onboard fuel filters, impellers, zincs
+* Location: Rockhold Creek Marina, Deale, MD
 
 ### Photos & Videos (11/2026) ###
 
