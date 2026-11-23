@@ -122,12 +122,12 @@ footer {
 
   img {
     width: 100%;
+  }
 
-    &.thumbnail {
-      width: 60%;
-      margin: 1em auto;
-      border: none;
-    }
+  img.thumbnail {
+    width: 60%;
+    margin: 1em auto;
+    border: none;
   }
 
   .title {
