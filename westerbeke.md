@@ -5,16 +5,13 @@ menu: /westerbeke.html
 
 # {{ page.title }} #
 
-I'm repowering my 1967 Allied Seabreeze with a new engine, and so I'll be selling
-my Westerbeke 30B3.
 
-This was the engine that came with the boat when my father purchased it in 2010.
-It was rebuilt shortly after purchase. Since then, it's been extremely reliable
-and I've followed the maintenance schedule to the letter. Except for a transit
-from Cape Cod to the Chesapeake in 2011, it's been almost entirely used
-to get in and out of the marina for day sails. There was a period where
-the engine clock wiring was on the fritz, so engine hours are an estimate,
-but I think it's a pretty good estimate.
+1981 Westerbeke 30B 27HP from a 1967 Allied Seabreeze. Rebuilt
+in 2010 with less than 300 hours runtime since. Hurth tranmission,
+alternator, instruments and wiring harnesses included.
+Runs perfectly and rigorously maintained.
+Video available showing operation in boat before being pulled. Many spare parts. 
+
 
 ### Serious inquiries, contact ###
 
@@ -30,9 +27,18 @@ but I think it's a pretty good estimate.
 * Transmission: Hurth HBW 100-2, S/N 1515101-B
 * Last Rebuild: 3/2010
 * Engine Hours Since Rebuild (est): 260
+* Specifications (from manual):
+  * Cylinders: 3
+  * Horsepower: 27
+  * Stroke: 2.76 in
+  * Displacement: 59.09 cubic in
+  * Dimensions (HWL): 19.75 x 16 X 28.81 in
+  * Weight: 272 lbs
+  * Idle speed: 1000-1200rpm
+  * Cruise speed: 2500-3000rpm (3600 max)
 * Included in Sale:
   * Admiral panel, tachometer, oil and temperature gauges
-  * Spare oil filters, onboard fuel filters, impellers, zincs
+  * Spare oil filters, onboard fuel filters, impellers, lift pump, zincs
 * Location: Rockhold Creek Marina, Deale, MD
 
 ### Photos & Videos (11/2026) ###
