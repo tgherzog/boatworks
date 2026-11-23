@@ -6,11 +6,15 @@ menu: /westerbeke.html
 # {{ page.title }} #
 
 
+<img src="projects/westerbeke/IMG_7211.jpg" class="magic thumbnail"/>
+
 1981 Westerbeke 30B 27HP from a 1967 Allied Seabreeze. Rebuilt
 in 2010 with less than 300 hours runtime since. Hurth tranmission,
 alternator, instruments and wiring harnesses included.
 Runs perfectly and rigorously maintained.
-Video available showing operation in boat before being pulled. Many spare parts. 
+Video available showing operation in boat before being pulled. Many spare parts.
+
+Currently stored inside in Deale, MD. Buyer pays and arranges shipping.
 
 
 ### Serious inquiries, contact ###
